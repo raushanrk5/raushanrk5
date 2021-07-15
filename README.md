@@ -1,4 +1,9 @@
-### Hello there 👋
+<!-- ### Hello there 👋 -->
+### Hello there, I'm Raushan Kumar <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+Final year computer science student. I like to develop websites. I am keen to learn new skills.
+[![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raushanrk5/)](https://www.linkedin.com/in/raushanrk5/)
+[![MAIL Badge](https://img.shields.io/badge/-shubhamgiri2000office@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarraushanrk5@gmail.com)](mailto:kumarraushanrk5@gmail.com)
 
 <!--
 **raushanrk5/raushanrk5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
