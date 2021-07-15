@@ -23,4 +23,4 @@ About me:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<img align="left" alt="skcshubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skcshubham&show_icons=true&hide_border=true" />
+<img align="left" alt="raushanrk5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raushanrk5&show_icons=true&hide_border=true" />
